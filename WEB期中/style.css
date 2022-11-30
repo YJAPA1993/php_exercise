@@ -1,0 +1,38 @@
+
+.toppic{
+
+}
+.block{
+    margin: auto;
+    padding-top: 80px;
+    padding-left:0 auto;
+    padding-right:0 auto; 
+}
+.blocktitle{
+    /* Layout Properties */
+    top: 947px;
+    left: 696px;
+    width: 528px;
+    height: 72px;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal bold 48px/72px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-650300);
+    font: normal normal bold 48px/72px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #650300;
+    text-transform: uppercase;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    opacity: 1;
+}
+.col{
+    flex: 1 0 0%;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
